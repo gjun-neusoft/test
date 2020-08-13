@@ -159,11 +159,7 @@ jest-html-reporters： npm i jest-html-reporter  (注意，这个工具安装后
 
 
 
-####    彩蛋：
 
-一张图说明BDD与ＴＤＤ的关系
-
-![image-20200723165951090](C:\Users\G-JUN\AppData\Roaming\Typora\typora-user-images\image-20200723165951090.png)
 
 
 
